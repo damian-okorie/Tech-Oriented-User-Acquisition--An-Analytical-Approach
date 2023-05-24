@@ -1,0 +1,2 @@
+# Tech-Oriented User Acquisition: An Analytical Approach
+ Harnessing Data Insights for Effective Fintech Marketing This repository documents an innovative marketing strategy deployed by a fintech startup seeking to expand its user base. The startup’s unique mobile app offers users effortless financial management, personalized budgeting, and robust investment tracking capabilities. To gain more traction in a highly competitive space, the startup identified the need for a data-driven, targeted marketing approach.
