@@ -205,7 +205,7 @@ In this past project, I effectively used a bar graph to represent the rating cou
 
 My adept handling of the Hackernews dataset, unveiling the two websites with the highest user engagement, showcased my ability to efficiently query, analyze, and extract meaningful insights from large datasets. This demonstrated proficiency in data manipulation and analysis serves as a testament to my potential contribution in data-intensive roles.
 
-https://github.com/damian-okorie/Tech-Oriented-User-Acquisition--An-Analytical-Approach/blob/main/plot1.png
+![Plot 1](https://github.com/damian-okorie/Tech-Oriented-User-Acquisition--An-Analytical-Approach/blob/main/plot1.png)
 
 
 The pie chart reveals the rating count distribution between two key websites identified through comprehensive data analysis. This chart, strategically designed, showcased each website's proportionate contribution to the total rating count.
@@ -214,7 +214,7 @@ Crucially, these percentage distributions were harnessed to guide budget allocat
 
 Overall, our skilled interpretation of the data visualizations facilitated a targeted marketing campaign that honed in on high-engagement platforms, thus maximizing user acquisition. This project showcased our proficiency in using data-driven strategies, underscoring our potential as valuable contributors in any data-intensive role.
 
-https://github.com/damian-okorie/Tech-Oriented-User-Acquisition--An-Analytical-Approach/blob/main/plot2.png
+![Plot 2](https://github.com/damian-okorie/Tech-Oriented-User-Acquisition--An-Analytical-Approach/blob/main/plot2.png)
 
 
 ##Outcome:
