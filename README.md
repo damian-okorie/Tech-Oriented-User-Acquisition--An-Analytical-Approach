@@ -198,3 +198,24 @@ The analysis then narrows down the results to the top two websites with ratings 
 This strategic approach ensures that the marketing campaign allocates resources effectively and concentrates efforts on the websites with the highest potential to attract and engage the desired technological user audience. By selecting the best two websites based on ratings and engagement, the campaign maximizes the chances of success and achieves optimal results in terms of follower and user acquisition for the fintech app.
 
 In summary, this analysis focuses on identifying the domains with high ratings and narrows down to the top two websites, providing actionable insights for the marketing campaign to target the most profitable platforms and optimize resource allocation.
+
+## Section 3: Data Visualization: Rating Count Distribution Among Top Two Websites
+
+In this past project, I effectively used a bar graph to represent the rating count for the top two websites, a conclusion reached by proficiently querying the Hackernews dataset. The visualization was designed with the websites on the x-axis and their respective rating counts on the y-axis. The height of each bar corresponded to each website's rating count, facilitating an easy comparison of engagement levels between these top-tier platforms.
+
+My adept handling of the Hackernews dataset, unveiling the two websites with the highest user engagement, showcased my ability to efficiently query, analyze, and extract meaningful insights from large datasets. This demonstrated proficiency in data manipulation and analysis serves as a testament to my potential contribution in data-intensive roles.
+
+https://github.com/damian-okorie/Tech-Oriented-User-Acquisition--An-Analytical-Approach/blob/main/plot1.png
+
+
+The pie chart reveals the rating count distribution between two key websites identified through comprehensive data analysis. This chart, strategically designed, showcased each website's proportionate contribution to the total rating count.
+
+Crucially, these percentage distributions were harnessed to guide budget allocations for the marketing campaign, a decision that reflected my ability to convert data insights into actionable strategies. The website with a higher rating count percentage was appropriately prioritized, indicating our nuanced understanding of audience engagement and our dedication to optimizing resource allocation for maximum return on investment.
+
+Overall, our skilled interpretation of the data visualizations facilitated a targeted marketing campaign that honed in on high-engagement platforms, thus maximizing user acquisition. This project showcased our proficiency in using data-driven strategies, underscoring our potential as valuable contributors in any data-intensive role.
+
+https://github.com/damian-okorie/Tech-Oriented-User-Acquisition--An-Analytical-Approach/blob/main/plot2.png
+
+
+##Outcome:
+The tech-savvy marketing approach, powered by insightful data analysis, proved to be a success. It yielded a significant influx of new users and followers for the startup's fintech app. With a blend of innovative app features and targeted marketing strategies, the startup successfully engaged the desired audience and bolstered their standing in the fintech market. This repository serves as a testament to the power of data-driven decision-making, paving the way for sustained growth and success in the fintech industry.
